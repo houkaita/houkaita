@@ -1,11 +1,7 @@
-<img src='https://www.datocms-assets.com/48251/1621247925-289-2899128undertale-home.gif'>
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">I'm a cs student interested in frontend and data science</h3>
-<img align="right" alt='coding' width='400' src='https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=houkaita&label=Profile%20views&color=0e75b6&style=flat" alt="houkaita" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=houkaita" alt="houkaita" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/bebecaindo" target="blank"><img src="https://img.shields.io/twitter/follow/bebecaindo?logo=twitter&style=for-the-badge" alt="bebecaindo" /></a> </p>
 
