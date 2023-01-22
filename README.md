@@ -1,3 +1,4 @@
+<img src='https://www.datocms-assets.com/48251/1621247925-289-2899128undertale-home.gif'>
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">I'm a cs student interested in frontend and data science</h3>
 
