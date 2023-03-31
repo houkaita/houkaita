@@ -1,4 +1,4 @@
-<img src='https://www.datocms-assets.com/48251/1621247925-289-2899128undertale-home.gif' height=500 width=100%>
+<img src='https://www.datocms-assets.com/48251/1621247925-289-2899128undertale-home.gif' height=450 width=100%>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=houkaita&show_icons=true&l&ocale=en&layout=compact&theme=tokyonight" alt="houkaita" /></p>
 
